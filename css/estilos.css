@@ -61,7 +61,7 @@ ul {
   left: 0;
   right: 0;
   bottom: 0;
-  height: 30vh;
+  height: 50vh;
   z-index: 1;
   background: var(--color);
   transform: translateY(-1000px);
